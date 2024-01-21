@@ -1,6 +1,6 @@
 #!/use/bin/evn python3
-# https://github.com/Cyber-Anonymous
-# Author - Sajjad
+# https://github.com/Aakash5917
+# Author - Aakash
 
 from zipfile import ZipFile
 import sys
